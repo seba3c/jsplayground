@@ -1,6 +1,6 @@
-# JS Sandbox
+# JS Playground
 
-A personal playground for JavaScript/TypeScript code challenges, experiments, and quick prototypes.
+A playground for JavaScript/TypeScript code challenges, experiments, and quick prototypes.
 
 ## Project Structure
 
